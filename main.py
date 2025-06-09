@@ -8,5 +8,6 @@ import pandas as pd
 
 # load diabetic_data.csv
 df = pd.read_csv('data/diabetic_data.csv')
+
 # 101766 rows and 50 columns
 
